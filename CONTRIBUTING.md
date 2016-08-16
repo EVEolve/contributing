@@ -29,6 +29,9 @@
       of the external developer.
     * Depending on the complexity of the pull request, discretion can be used to
       wait for multiple approvals before merging a pull request.
+* Issue and pull request numbers should only be referenced from within GitHub.
+  These issue numbers should not be referenced inside the body of a commit, as
+  it will start spamming the issue history.
 * By contributing to this organization's projects, you as an author implicitly
   consent to transferring ownership of your work, which will become licensed
   under the terms of the respective project. This transfer is to be considered
