@@ -35,9 +35,8 @@
 * Issue and pull request numbers should only be referenced from within GitHub.
   These issue numbers should not be referenced inside a commit message, as
   it may spam the issue history if certain Git operations are executed.
-* Issue tickets should be closed when a PR has been created to resolve the 
-  issue. Typically the issue should be closed when it is completely resolved (PR
-  merged, tested).
+* An issue ticket should only be closed after its corresponding pull request has
+  been merged and tested.
 * By contributing to this organization's projects, you as an author implicitly
   consent to transferring ownership of your work, which will become licensed
   under the terms of the respective project. This transfer is to be considered
