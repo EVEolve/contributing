@@ -13,6 +13,8 @@
 * It is highly recommended that substantial changes be discussed in an issue
   ticket before programming begins. This is also a good time to provide
   conceptual designs where applicable.
+* Organization members should assign issue tickets to themselves when starting
+  work on an issue. (Non-members will not have this option).
 * Follow the language style guides associated with the organization and its
   projects. If there is a case where a guideline is unclear or does not exist,
   first try to follow the implicit code style of the project, then the
