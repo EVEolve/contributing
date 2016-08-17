@@ -15,6 +15,7 @@
   conceptual designs where applicable.
 * Organization members should assign issue tickets to themselves when starting
   work on an issue. (Non-members will not have this option).
+* Lines in files should be terminated with Linux-style line endings `\n`.
 * Follow the language style guides associated with the organization and its
   projects. If there is a case where a guideline is unclear or does not exist,
   first try to follow the implicit code style of the project, then the
