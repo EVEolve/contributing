@@ -22,6 +22,26 @@
   organization, then the programming language in general. If all else fails,
   use common sense and err on the side of readability.
 * Do not push to the `master` branch.
+* When creating a pull request (PR) based on an existing issue ticket, the issue
+  number should be referenced in the PR by the author of the PR. Ideally this
+  would be at the very top or bottom of the body of the PR description. Words 
+  like `For` or `Ref` can be used to denote a direct reference, and 
+  `Rel`/`Related` can denote a loose relationship to other PR's or issues.
+
+  > For example:
+
+  > ```text
+  > For: #1
+
+  > This PR implements a method to display the phrase "Hello World" to the user.
+  > ```
+
+  > ```text
+  > Ref: #1
+  > Rel: #2
+
+  > This PR implements a method to display the phrase "Hello World" to the user.
+  > ```
 * Pull requests should be reviewed by at least one member of the organization.
   A pull request can be marked ready for review by the author by simply writing
   `Ready for review` in a comment. Approval can be given by replying with a
