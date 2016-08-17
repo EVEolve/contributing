@@ -18,6 +18,7 @@
   first try to follow the implicit code style of the project, then the
   organization, then the programming language in general. If all else fails,
   use common sense and err on the side of readability.
+* Do not push to the `master` branch.
 * Pull requests should be reviewed by at least one member of the organization.
   A pull request can be marked ready for review by the author by simply writing
   `Ready for review` in a comment. Approval can be given by replying with a
