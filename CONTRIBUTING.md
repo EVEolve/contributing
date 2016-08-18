@@ -16,11 +16,12 @@
 * Organization members should assign issue tickets to themselves when starting
   work on an issue. (Non-members will not have this option).
 * Lines in files should be terminated with Linux-style line endings `\n`.
-* Follow the language style guides associated with the organization and its
-  projects. If there is a case where a guideline is unclear or does not exist,
-  first try to follow the implicit code style of the project, then the
-  organization, then the programming language in general. If all else fails,
-  use common sense and err on the side of readability.
+* Follow the language [style guides](https://github.com/EVEolve/styleguides)
+  associated with the organization and its projects. If there is a case where a
+  guideline is unclear or does not exist, first try to follow the implicit code
+  style of the project, then the organization, then the programming language in
+  general. If all else fails, use common sense and err on the side of
+  readability.
 * Do not push to the `master` branch.
 * When creating a pull request (PR) based on an existing issue ticket, the issue
   number should be referenced in the PR by the author of the PR. Ideally this
