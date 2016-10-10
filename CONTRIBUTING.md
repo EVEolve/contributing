@@ -45,8 +45,8 @@
   > ```
 * Pull requests should be reviewed by at least one member of the organization.
   A pull request can be marked ready for review by the author by simply writing
-  `Ready for review` in a comment. Approval can be given by replying with a
-  comment stating `Approved`, or an emoji of :+1:, :100:, or :shipit:.
+  `Ready for review` in a comment. Approval can be given by using GitHub's
+  `Review Changes` feature.
     * If the pull request was initiated by an organization member, that member
       should merge his/her own pull request after receiving approval.
     * If the pull request was initiated by an external developer, any
